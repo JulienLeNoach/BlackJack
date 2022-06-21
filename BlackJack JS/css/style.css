@@ -1,0 +1,22 @@
+h1{
+    width:  50%;
+    margin: auto;
+    font-family: Gill Sans, sans-serif;
+}
+
+.board{
+    width:  50%;
+    margin: auto;
+    background-color: green;
+    text-align: center;
+    color:white;
+    font-size:25px;
+    font-family: Gill Sans, sans-serif
+
+}
+
+.score{
+    width:  50%;
+    margin: auto;
+    font-family: Gill Sans, sans-serif
+}
